@@ -25,3 +25,7 @@ staticRedirects:
 #   includePaths:
 #     - /red # red is locked down
 
+authentication:
+  policyName: bug-bash-policy-2
+  includePaths:
+    - /red  #red is locked down
