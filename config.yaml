@@ -15,7 +15,7 @@ dynamicRedirects:
   # This is a custom redirect because the status code is 3xx.
 staticRedirects:
   -
-    from: /brown
+    from: /brown-redirect
     to: /orange
     status: 301
 
